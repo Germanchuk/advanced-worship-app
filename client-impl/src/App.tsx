@@ -31,7 +31,7 @@ function App() {
     {
       path: "myLists",
       element: <Lists />,
-    },
+    }
   ]);
 
   return routes;
